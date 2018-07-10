@@ -7,4 +7,4 @@ order: 4
 
 This page is about the job, isn't that neat?
 
-[About the tech](/tech)
+[About the tech](tech)

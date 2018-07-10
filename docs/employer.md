@@ -7,6 +7,4 @@ order: 2
 
 This page is about the employer, isn't that neat?
 
-[Goals](/goals)
-
-
+[Goals](goals)
