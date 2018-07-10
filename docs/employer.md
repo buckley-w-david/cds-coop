@@ -1,3 +1,12 @@
-# Employer
+---
+layout: default
+title: About the Employer
+permalink: /employer
+order: 2
+---
 
-[Goals](goals.md)
+This page is about the employer, isn't that neat?
+
+[Goals](/goals)
+
+

@@ -1,3 +1,10 @@
-# Job Description!
+---
+layout: default
+title: Job Description
+permalink: /job-description
+order: 4
+---
 
-[The Tech](tech.md)
+This page is about the job, isn't that neat?
+
+[About the tech](/tech)
