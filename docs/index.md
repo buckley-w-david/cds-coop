@@ -7,7 +7,7 @@ title: Home
 order: 1
 ---
 
-![CDS Logo]({{ "/assets/img/cds-logo-en-full.png" | absolute_url }}){:class="main-logo"}
+![CDS Logo](assets/img/cds-logo-en-full.png){:class="main-logo"}
 
 My time at the Canadian Digital Service has been the best co-op experience of my time at the University of Guelph, and has resulted an an enormous amount of both personal and technical growth on my part.
 
